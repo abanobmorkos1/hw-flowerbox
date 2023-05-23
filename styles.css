@@ -1,0 +1,385 @@
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    margin-top: 5px;
+    background-color:#92b2ba ;
+    width:auto;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    font-family: 'Delicious Handrawn', cursive;
+    width: 1719px;
+}
+
+ul{
+    color: #ffffff;
+    justify-content: space-between;
+}
+
+/* first picture */
+
+.banner img{
+width: 1719.9px ;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.banner{
+    width: 1719px;
+    height: 687px;
+}
+
+.flb1 {
+    position: relative;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 42px;
+    justify-content: center;
+    bottom: 51%;
+    left: 73%;
+}
+
+.FAYF{
+    color: rgb(12, 255, 255);
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 15px;
+    justify-items: center;
+    
+}
+/* Listing picture */
+.listing1 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;  
+}
+/* Listing name stylee */
+.listing1 .forgiveme{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.forgiveme .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.forgiveme .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 2///////////// */
+
+/* Listing picture */
+.listing2 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing2 .pinkperf{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.pinkperf .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.pinkperf .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 3///////////// */
+
+/* Listing picture */
+.listing3 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+    
+}
+/* Listing name stylee */
+.listing3 .hope{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.hope .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.hope .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 4///////////// */
+
+/* Listing picture */
+.listing4 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing4 .mug{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.mug .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.mug .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 5///////////// */
+
+/* Listing picture */
+.listing5 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing5 .breath{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.breath .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.breath .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}/* \\\\\\\\\\\\LIST 6///////////// */
+
+/* Listing picture */
+.listing6 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing6 .love{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.love .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.love .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 7///////////// */
+
+/* Listing picture */
+.listing7 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing7 .spring{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.spring .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.spring .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 8///////////// */
+
+/* Listing picture */
+.listing8 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing8 .can{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.can .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.can .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+/* \\\\\\\\\\\\LIST 8///////////// */
+
+/* Listing picture */
+.listing9 img{
+    width: 350px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+/* Listing name stylee */
+.listing9 .basket{
+    background-color:rgb(172, 233, 230);
+    position: relative;
+    bottom: 10%;
+    margin-left:5px ;
+    padding: 20px;
+    text-align: left;
+    color: darkgreen;
+    border-radius: 5px;
+    width: 310px;
+}
+/* small boxexs under listing */
+.basket .attr {
+    color: #feb6c7;
+    margin: 2px;
+    position: relative;
+    top: 10px;
+    background-color: beige;
+    border-radius: 5px;
+    border: 20px;
+    font-size: 13px;
+}
+/* listing price */
+.basket .price{
+    float: right;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
